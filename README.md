@@ -1,13 +1,2 @@
-- 👋 Hi, I’m @SrinathSahadevan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SrinathSahadevan/SrinathSahadevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%2BScript&pause=1000&width=435&lines=Hello+%2C+Welcome+to+SriTechWorld;Myself%2C+Srinath+Sahadevan+,+Working+as+software+professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%2BScript&pause=1000&width=435&lines=Hello+👋+%2C+Welcome+to+SriTechWorld;Myself%2C+Srinath+Sahadevan+,+Working+as+software+professional)](https://git.io/typing-svg)
 
